@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="backgroud">
+    <file>backgroud/9.jpg</file>
+    <file>backgroud/8852.jpg_wh860.jpg</file>
+    <file>backgroud/1614776.jpg</file>
+    <file>backgroud/1912279.jpg</file>
+    <file>backgroud/b9.jpg</file>
+    <file>backgroud/dat15904627748632.jpg</file>
+    <file>backgroud/futuristic_cpu.jpg</file>
+    <file>backgroud/photo-4-1499840306632.jpg</file>
+    <file>backgroud/b8.jpg</file>
+    <file>backgroud/b1.jpg</file>
+    <file>backgroud/b2.jpg</file>
+    <file>backgroud/b3.jpg</file>
+    <file>backgroud/b4.png</file>
+    <file>backgroud/b5.jpg</file>
+    <file>backgroud/b6.jpg</file>
+    <file>backgroud/b7.jpg</file>
+  </qresource>
+</RCC>
